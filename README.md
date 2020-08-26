@@ -7,3 +7,4 @@ Run these commands in CMD, terminal or PowerShell (if you don't already have the
 pip install requests
 pip install pywin32-ctypes
 ```
+Developed by @zoony1337
